@@ -1,2 +1,3 @@
-# requirement-management-system
-Enterprise Requirement Management and Issue Tracking System following SDLC practices
+# Enterprise Requirement Management & Issue Tracking System
+
+A mini enterprise application to manage business requirements and track their lifecycle.
